@@ -33,8 +33,11 @@ $$w_{i,j} = tf_{i,j} \times \log{\frac{N}{df_i}}$$
 
 Where: 
 $w_{i,j}$ = weight of term i in document j
+
 $tf_{i,j}$ = number of occurences of term i in document j
+
 $N$ = total number of documents
+
 $df_i$ = number of documents containing term i
 
 #### Term frequency
